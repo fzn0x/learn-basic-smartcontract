@@ -7,6 +7,13 @@ Prerequisites
 - Live-server
 - Metamask
 - Web3.js (Web Client Integration)
+- Node.js >= 12.x
+
+Install required node.js dependencies.
+
+```bash
+npm install
+```
 
 Init the project with [truffle](https://www.trufflesuite.com/boxes)
 
